@@ -1,0 +1,35 @@
+baseURL = 'http://selfspace.ro/'
+languageCode = 'ro-RO'
+title = 'Spatii de Depozitare'
+theme = "ananke"
+
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3
+googleAnalytics = ""
+enableRobotsTXT = true
+public = true
+
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "selfspace.ro - Spatii de Depozitare de Inchiriat"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+
+
+[sitemap]
+	changefreq = "monthly"
+	priority = 0.5
+	filename = "sitemap.xml"
+
+
+
+[[params.ananke_socials]]
+	name = "OLX"
+	url = "https://olx.ro"
