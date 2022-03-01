@@ -12,6 +12,3 @@ SelfSPACE.ro este un serviciu de depozitare individuală în containere maritime
 
 
 ### Aveti intrebari? Contactati-ne! 
-
-
-{{< form-contact action="mailto:info@selfspace.ro"  >}}
